@@ -1,0 +1,12 @@
+{
+  "background_color": "#0a1628",
+  "description": "Расчёт потери напряжения в кабельной линии",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "ΔU Калькулятор",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "ΔU Calc",
+  "start_url": "/",
+  "theme_color": "#00d4ff"
+}
